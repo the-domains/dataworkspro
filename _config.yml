@@ -1,0 +1,28 @@
+name: DataWorksPro
+favicon: null
+layout_spectrum: 0.7755846381187439
+typography_spectrum: 0.1355808349326253
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5661825721617788
+  lightness: 0.7968519248533994
+  saturation: 0.8970904287416488
+  rhythmicContrast: 0.5552904224023223
+purpose: []
